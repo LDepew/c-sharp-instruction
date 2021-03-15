@@ -1,0 +1,12 @@
+C:\repos\c-sharp-instruction\Proj3-1_Temperature_Converter\Proj3-1_Temperature_Converter\bin\Debug\netcoreapp3.1\Proj3-1_Temperature_Converter.exe
+C:\repos\c-sharp-instruction\Proj3-1_Temperature_Converter\Proj3-1_Temperature_Converter\bin\Debug\netcoreapp3.1\Proj3-1_Temperature_Converter.deps.json
+C:\repos\c-sharp-instruction\Proj3-1_Temperature_Converter\Proj3-1_Temperature_Converter\bin\Debug\netcoreapp3.1\Proj3-1_Temperature_Converter.runtimeconfig.json
+C:\repos\c-sharp-instruction\Proj3-1_Temperature_Converter\Proj3-1_Temperature_Converter\bin\Debug\netcoreapp3.1\Proj3-1_Temperature_Converter.runtimeconfig.dev.json
+C:\repos\c-sharp-instruction\Proj3-1_Temperature_Converter\Proj3-1_Temperature_Converter\bin\Debug\netcoreapp3.1\Proj3-1_Temperature_Converter.dll
+C:\repos\c-sharp-instruction\Proj3-1_Temperature_Converter\Proj3-1_Temperature_Converter\bin\Debug\netcoreapp3.1\Proj3-1_Temperature_Converter.pdb
+C:\repos\c-sharp-instruction\Proj3-1_Temperature_Converter\Proj3-1_Temperature_Converter\obj\Debug\netcoreapp3.1\Proj3-1_Temperature_Converter.AssemblyInfoInputs.cache
+C:\repos\c-sharp-instruction\Proj3-1_Temperature_Converter\Proj3-1_Temperature_Converter\obj\Debug\netcoreapp3.1\Proj3-1_Temperature_Converter.AssemblyInfo.cs
+C:\repos\c-sharp-instruction\Proj3-1_Temperature_Converter\Proj3-1_Temperature_Converter\obj\Debug\netcoreapp3.1\Proj3-1_Temperature_Converter.csproj.CoreCompileInputs.cache
+C:\repos\c-sharp-instruction\Proj3-1_Temperature_Converter\Proj3-1_Temperature_Converter\obj\Debug\netcoreapp3.1\Proj3-1_Temperature_Converter.dll
+C:\repos\c-sharp-instruction\Proj3-1_Temperature_Converter\Proj3-1_Temperature_Converter\obj\Debug\netcoreapp3.1\Proj3-1_Temperature_Converter.pdb
+C:\repos\c-sharp-instruction\Proj3-1_Temperature_Converter\Proj3-1_Temperature_Converter\obj\Debug\netcoreapp3.1\Proj3-1_Temperature_Converter.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\repos\c-sharp-instruction\Proj3-2_Travel_Time_Calculator\Proj3-2_Travel_Time_Calculator\bin\Debug\netcoreapp3.1\Proj3-2_Travel_Time_Calculator.exe
+C:\repos\c-sharp-instruction\Proj3-2_Travel_Time_Calculator\Proj3-2_Travel_Time_Calculator\bin\Debug\netcoreapp3.1\Proj3-2_Travel_Time_Calculator.deps.json
+C:\repos\c-sharp-instruction\Proj3-2_Travel_Time_Calculator\Proj3-2_Travel_Time_Calculator\bin\Debug\netcoreapp3.1\Proj3-2_Travel_Time_Calculator.runtimeconfig.json
+C:\repos\c-sharp-instruction\Proj3-2_Travel_Time_Calculator\Proj3-2_Travel_Time_Calculator\bin\Debug\netcoreapp3.1\Proj3-2_Travel_Time_Calculator.runtimeconfig.dev.json
+C:\repos\c-sharp-instruction\Proj3-2_Travel_Time_Calculator\Proj3-2_Travel_Time_Calculator\bin\Debug\netcoreapp3.1\Proj3-2_Travel_Time_Calculator.dll
+C:\repos\c-sharp-instruction\Proj3-2_Travel_Time_Calculator\Proj3-2_Travel_Time_Calculator\bin\Debug\netcoreapp3.1\Proj3-2_Travel_Time_Calculator.pdb
+C:\repos\c-sharp-instruction\Proj3-2_Travel_Time_Calculator\Proj3-2_Travel_Time_Calculator\obj\Debug\netcoreapp3.1\Proj3-2_Travel_Time_Calculator.csprojAssemblyReference.cache
+C:\repos\c-sharp-instruction\Proj3-2_Travel_Time_Calculator\Proj3-2_Travel_Time_Calculator\obj\Debug\netcoreapp3.1\Proj3-2_Travel_Time_Calculator.AssemblyInfoInputs.cache
+C:\repos\c-sharp-instruction\Proj3-2_Travel_Time_Calculator\Proj3-2_Travel_Time_Calculator\obj\Debug\netcoreapp3.1\Proj3-2_Travel_Time_Calculator.AssemblyInfo.cs
+C:\repos\c-sharp-instruction\Proj3-2_Travel_Time_Calculator\Proj3-2_Travel_Time_Calculator\obj\Debug\netcoreapp3.1\Proj3-2_Travel_Time_Calculator.csproj.CoreCompileInputs.cache
+C:\repos\c-sharp-instruction\Proj3-2_Travel_Time_Calculator\Proj3-2_Travel_Time_Calculator\obj\Debug\netcoreapp3.1\Proj3-2_Travel_Time_Calculator.dll
+C:\repos\c-sharp-instruction\Proj3-2_Travel_Time_Calculator\Proj3-2_Travel_Time_Calculator\obj\Debug\netcoreapp3.1\Proj3-2_Travel_Time_Calculator.pdb
+C:\repos\c-sharp-instruction\Proj3-2_Travel_Time_Calculator\Proj3-2_Travel_Time_Calculator\obj\Debug\netcoreapp3.1\Proj3-2_Travel_Time_Calculator.genruntimeconfig.cache

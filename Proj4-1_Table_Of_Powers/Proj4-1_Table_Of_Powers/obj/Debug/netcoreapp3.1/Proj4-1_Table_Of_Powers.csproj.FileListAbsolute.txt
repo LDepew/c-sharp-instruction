@@ -1,0 +1,13 @@
+C:\repos\c-sharp-instruction\Proj4-1_Table_Of_Powers\Proj4-1_Table_Of_Powers\bin\Debug\netcoreapp3.1\Proj4-1_Table_Of_Powers.exe
+C:\repos\c-sharp-instruction\Proj4-1_Table_Of_Powers\Proj4-1_Table_Of_Powers\bin\Debug\netcoreapp3.1\Proj4-1_Table_Of_Powers.deps.json
+C:\repos\c-sharp-instruction\Proj4-1_Table_Of_Powers\Proj4-1_Table_Of_Powers\bin\Debug\netcoreapp3.1\Proj4-1_Table_Of_Powers.runtimeconfig.json
+C:\repos\c-sharp-instruction\Proj4-1_Table_Of_Powers\Proj4-1_Table_Of_Powers\bin\Debug\netcoreapp3.1\Proj4-1_Table_Of_Powers.runtimeconfig.dev.json
+C:\repos\c-sharp-instruction\Proj4-1_Table_Of_Powers\Proj4-1_Table_Of_Powers\bin\Debug\netcoreapp3.1\Proj4-1_Table_Of_Powers.dll
+C:\repos\c-sharp-instruction\Proj4-1_Table_Of_Powers\Proj4-1_Table_Of_Powers\bin\Debug\netcoreapp3.1\Proj4-1_Table_Of_Powers.pdb
+C:\repos\c-sharp-instruction\Proj4-1_Table_Of_Powers\Proj4-1_Table_Of_Powers\obj\Debug\netcoreapp3.1\Proj4-1_Table_Of_Powers.csprojAssemblyReference.cache
+C:\repos\c-sharp-instruction\Proj4-1_Table_Of_Powers\Proj4-1_Table_Of_Powers\obj\Debug\netcoreapp3.1\Proj4-1_Table_Of_Powers.AssemblyInfoInputs.cache
+C:\repos\c-sharp-instruction\Proj4-1_Table_Of_Powers\Proj4-1_Table_Of_Powers\obj\Debug\netcoreapp3.1\Proj4-1_Table_Of_Powers.AssemblyInfo.cs
+C:\repos\c-sharp-instruction\Proj4-1_Table_Of_Powers\Proj4-1_Table_Of_Powers\obj\Debug\netcoreapp3.1\Proj4-1_Table_Of_Powers.csproj.CoreCompileInputs.cache
+C:\repos\c-sharp-instruction\Proj4-1_Table_Of_Powers\Proj4-1_Table_Of_Powers\obj\Debug\netcoreapp3.1\Proj4-1_Table_Of_Powers.dll
+C:\repos\c-sharp-instruction\Proj4-1_Table_Of_Powers\Proj4-1_Table_Of_Powers\obj\Debug\netcoreapp3.1\Proj4-1_Table_Of_Powers.pdb
+C:\repos\c-sharp-instruction\Proj4-1_Table_Of_Powers\Proj4-1_Table_Of_Powers\obj\Debug\netcoreapp3.1\Proj4-1_Table_Of_Powers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\repos\c-sharp-instruction\Proj2-3_Rectangle_Calculator\Proj2-3_Rectangle_Calculator\bin\Debug\netcoreapp3.1\Proj2-3_Rectangle_Calculator.exe
+C:\repos\c-sharp-instruction\Proj2-3_Rectangle_Calculator\Proj2-3_Rectangle_Calculator\bin\Debug\netcoreapp3.1\Proj2-3_Rectangle_Calculator.deps.json
+C:\repos\c-sharp-instruction\Proj2-3_Rectangle_Calculator\Proj2-3_Rectangle_Calculator\bin\Debug\netcoreapp3.1\Proj2-3_Rectangle_Calculator.runtimeconfig.json
+C:\repos\c-sharp-instruction\Proj2-3_Rectangle_Calculator\Proj2-3_Rectangle_Calculator\bin\Debug\netcoreapp3.1\Proj2-3_Rectangle_Calculator.runtimeconfig.dev.json
+C:\repos\c-sharp-instruction\Proj2-3_Rectangle_Calculator\Proj2-3_Rectangle_Calculator\bin\Debug\netcoreapp3.1\Proj2-3_Rectangle_Calculator.dll
+C:\repos\c-sharp-instruction\Proj2-3_Rectangle_Calculator\Proj2-3_Rectangle_Calculator\bin\Debug\netcoreapp3.1\Proj2-3_Rectangle_Calculator.pdb
+C:\repos\c-sharp-instruction\Proj2-3_Rectangle_Calculator\Proj2-3_Rectangle_Calculator\obj\Debug\netcoreapp3.1\Proj2-3_Rectangle_Calculator.csprojAssemblyReference.cache
+C:\repos\c-sharp-instruction\Proj2-3_Rectangle_Calculator\Proj2-3_Rectangle_Calculator\obj\Debug\netcoreapp3.1\Proj2-3_Rectangle_Calculator.AssemblyInfoInputs.cache
+C:\repos\c-sharp-instruction\Proj2-3_Rectangle_Calculator\Proj2-3_Rectangle_Calculator\obj\Debug\netcoreapp3.1\Proj2-3_Rectangle_Calculator.AssemblyInfo.cs
+C:\repos\c-sharp-instruction\Proj2-3_Rectangle_Calculator\Proj2-3_Rectangle_Calculator\obj\Debug\netcoreapp3.1\Proj2-3_Rectangle_Calculator.csproj.CoreCompileInputs.cache
+C:\repos\c-sharp-instruction\Proj2-3_Rectangle_Calculator\Proj2-3_Rectangle_Calculator\obj\Debug\netcoreapp3.1\Proj2-3_Rectangle_Calculator.dll
+C:\repos\c-sharp-instruction\Proj2-3_Rectangle_Calculator\Proj2-3_Rectangle_Calculator\obj\Debug\netcoreapp3.1\Proj2-3_Rectangle_Calculator.pdb
+C:\repos\c-sharp-instruction\Proj2-3_Rectangle_Calculator\Proj2-3_Rectangle_Calculator\obj\Debug\netcoreapp3.1\Proj2-3_Rectangle_Calculator.genruntimeconfig.cache

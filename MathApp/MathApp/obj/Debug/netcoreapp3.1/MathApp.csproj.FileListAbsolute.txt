@@ -1,0 +1,13 @@
+C:\repos\c-sharp-instruction\MathApp\MathApp\bin\Debug\netcoreapp3.1\MathApp.exe
+C:\repos\c-sharp-instruction\MathApp\MathApp\bin\Debug\netcoreapp3.1\MathApp.deps.json
+C:\repos\c-sharp-instruction\MathApp\MathApp\bin\Debug\netcoreapp3.1\MathApp.runtimeconfig.json
+C:\repos\c-sharp-instruction\MathApp\MathApp\bin\Debug\netcoreapp3.1\MathApp.runtimeconfig.dev.json
+C:\repos\c-sharp-instruction\MathApp\MathApp\bin\Debug\netcoreapp3.1\MathApp.dll
+C:\repos\c-sharp-instruction\MathApp\MathApp\bin\Debug\netcoreapp3.1\MathApp.pdb
+C:\repos\c-sharp-instruction\MathApp\MathApp\obj\Debug\netcoreapp3.1\MathApp.csprojAssemblyReference.cache
+C:\repos\c-sharp-instruction\MathApp\MathApp\obj\Debug\netcoreapp3.1\MathApp.AssemblyInfoInputs.cache
+C:\repos\c-sharp-instruction\MathApp\MathApp\obj\Debug\netcoreapp3.1\MathApp.AssemblyInfo.cs
+C:\repos\c-sharp-instruction\MathApp\MathApp\obj\Debug\netcoreapp3.1\MathApp.csproj.CoreCompileInputs.cache
+C:\repos\c-sharp-instruction\MathApp\MathApp\obj\Debug\netcoreapp3.1\MathApp.dll
+C:\repos\c-sharp-instruction\MathApp\MathApp\obj\Debug\netcoreapp3.1\MathApp.pdb
+C:\repos\c-sharp-instruction\MathApp\MathApp\obj\Debug\netcoreapp3.1\MathApp.genruntimeconfig.cache
