@@ -10,9 +10,9 @@ namespace product_manager {
         public Software() { }
 
         public Software(string code, string desc, double price, string version) :
-            base(code, desc, price) }
+            base(code, desc, price) {
 
-            this.Version = version;
+            this.Version = Version;
         }
 
 
