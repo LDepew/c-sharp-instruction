@@ -1,0 +1,13 @@
+C:\repos\c-sharp-instruction\arrays-demo\arrays-demo\bin\Debug\netcoreapp3.1\arrays-demo.exe
+C:\repos\c-sharp-instruction\arrays-demo\arrays-demo\bin\Debug\netcoreapp3.1\arrays-demo.deps.json
+C:\repos\c-sharp-instruction\arrays-demo\arrays-demo\bin\Debug\netcoreapp3.1\arrays-demo.runtimeconfig.json
+C:\repos\c-sharp-instruction\arrays-demo\arrays-demo\bin\Debug\netcoreapp3.1\arrays-demo.runtimeconfig.dev.json
+C:\repos\c-sharp-instruction\arrays-demo\arrays-demo\bin\Debug\netcoreapp3.1\arrays-demo.dll
+C:\repos\c-sharp-instruction\arrays-demo\arrays-demo\bin\Debug\netcoreapp3.1\arrays-demo.pdb
+C:\repos\c-sharp-instruction\arrays-demo\arrays-demo\obj\Debug\netcoreapp3.1\arrays-demo.csprojAssemblyReference.cache
+C:\repos\c-sharp-instruction\arrays-demo\arrays-demo\obj\Debug\netcoreapp3.1\arrays-demo.AssemblyInfoInputs.cache
+C:\repos\c-sharp-instruction\arrays-demo\arrays-demo\obj\Debug\netcoreapp3.1\arrays-demo.AssemblyInfo.cs
+C:\repos\c-sharp-instruction\arrays-demo\arrays-demo\obj\Debug\netcoreapp3.1\arrays-demo.csproj.CoreCompileInputs.cache
+C:\repos\c-sharp-instruction\arrays-demo\arrays-demo\obj\Debug\netcoreapp3.1\arrays-demo.dll
+C:\repos\c-sharp-instruction\arrays-demo\arrays-demo\obj\Debug\netcoreapp3.1\arrays-demo.pdb
+C:\repos\c-sharp-instruction\arrays-demo\arrays-demo\obj\Debug\netcoreapp3.1\arrays-demo.genruntimeconfig.cache
