@@ -1,0 +1,12 @@
+C:\repos\c-sharp-instruction\bmdb-console\bmdb-console\obj\Debug\netcoreapp3.1\bmdb-console.AssemblyInfoInputs.cache
+C:\repos\c-sharp-instruction\bmdb-console\bmdb-console\obj\Debug\netcoreapp3.1\bmdb-console.AssemblyInfo.cs
+C:\repos\c-sharp-instruction\bmdb-console\bmdb-console\obj\Debug\netcoreapp3.1\bmdb-console.csproj.CoreCompileInputs.cache
+C:\repos\c-sharp-instruction\bmdb-console\bmdb-console\bin\Debug\netcoreapp3.1\bmdb-console.exe
+C:\repos\c-sharp-instruction\bmdb-console\bmdb-console\bin\Debug\netcoreapp3.1\bmdb-console.deps.json
+C:\repos\c-sharp-instruction\bmdb-console\bmdb-console\bin\Debug\netcoreapp3.1\bmdb-console.runtimeconfig.json
+C:\repos\c-sharp-instruction\bmdb-console\bmdb-console\bin\Debug\netcoreapp3.1\bmdb-console.runtimeconfig.dev.json
+C:\repos\c-sharp-instruction\bmdb-console\bmdb-console\bin\Debug\netcoreapp3.1\bmdb-console.dll
+C:\repos\c-sharp-instruction\bmdb-console\bmdb-console\bin\Debug\netcoreapp3.1\bmdb-console.pdb
+C:\repos\c-sharp-instruction\bmdb-console\bmdb-console\obj\Debug\netcoreapp3.1\bmdb-console.dll
+C:\repos\c-sharp-instruction\bmdb-console\bmdb-console\obj\Debug\netcoreapp3.1\bmdb-console.pdb
+C:\repos\c-sharp-instruction\bmdb-console\bmdb-console\obj\Debug\netcoreapp3.1\bmdb-console.genruntimeconfig.cache
