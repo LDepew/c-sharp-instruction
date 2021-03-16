@@ -1,0 +1,13 @@
+C:\repos\c-sharp-instruction\Proj12-2_Wizard_Inventory\Proj12-2_Wizard_Inventory\obj\Debug\netcoreapp3.1\Proj12-2_Wizard_Inventory.csprojAssemblyReference.cache
+C:\repos\c-sharp-instruction\Proj12-2_Wizard_Inventory\Proj12-2_Wizard_Inventory\obj\Debug\netcoreapp3.1\Proj12-2_Wizard_Inventory.AssemblyInfoInputs.cache
+C:\repos\c-sharp-instruction\Proj12-2_Wizard_Inventory\Proj12-2_Wizard_Inventory\obj\Debug\netcoreapp3.1\Proj12-2_Wizard_Inventory.AssemblyInfo.cs
+C:\repos\c-sharp-instruction\Proj12-2_Wizard_Inventory\Proj12-2_Wizard_Inventory\obj\Debug\netcoreapp3.1\Proj12-2_Wizard_Inventory.csproj.CoreCompileInputs.cache
+C:\repos\c-sharp-instruction\Proj12-2_Wizard_Inventory\Proj12-2_Wizard_Inventory\bin\Debug\netcoreapp3.1\Proj12-2_Wizard_Inventory.exe
+C:\repos\c-sharp-instruction\Proj12-2_Wizard_Inventory\Proj12-2_Wizard_Inventory\bin\Debug\netcoreapp3.1\Proj12-2_Wizard_Inventory.deps.json
+C:\repos\c-sharp-instruction\Proj12-2_Wizard_Inventory\Proj12-2_Wizard_Inventory\bin\Debug\netcoreapp3.1\Proj12-2_Wizard_Inventory.runtimeconfig.json
+C:\repos\c-sharp-instruction\Proj12-2_Wizard_Inventory\Proj12-2_Wizard_Inventory\bin\Debug\netcoreapp3.1\Proj12-2_Wizard_Inventory.runtimeconfig.dev.json
+C:\repos\c-sharp-instruction\Proj12-2_Wizard_Inventory\Proj12-2_Wizard_Inventory\bin\Debug\netcoreapp3.1\Proj12-2_Wizard_Inventory.dll
+C:\repos\c-sharp-instruction\Proj12-2_Wizard_Inventory\Proj12-2_Wizard_Inventory\bin\Debug\netcoreapp3.1\Proj12-2_Wizard_Inventory.pdb
+C:\repos\c-sharp-instruction\Proj12-2_Wizard_Inventory\Proj12-2_Wizard_Inventory\obj\Debug\netcoreapp3.1\Proj12-2_Wizard_Inventory.dll
+C:\repos\c-sharp-instruction\Proj12-2_Wizard_Inventory\Proj12-2_Wizard_Inventory\obj\Debug\netcoreapp3.1\Proj12-2_Wizard_Inventory.pdb
+C:\repos\c-sharp-instruction\Proj12-2_Wizard_Inventory\Proj12-2_Wizard_Inventory\obj\Debug\netcoreapp3.1\Proj12-2_Wizard_Inventory.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\repos\c-sharp-instruction\Challenge10-Pig-Dice\Challenge10-Pig-Dice\obj\Debug\netcoreapp3.1\Challenge10-Pig-Dice.csprojAssemblyReference.cache
+C:\repos\c-sharp-instruction\Challenge10-Pig-Dice\Challenge10-Pig-Dice\obj\Debug\netcoreapp3.1\Challenge10-Pig-Dice.AssemblyInfoInputs.cache
+C:\repos\c-sharp-instruction\Challenge10-Pig-Dice\Challenge10-Pig-Dice\obj\Debug\netcoreapp3.1\Challenge10-Pig-Dice.AssemblyInfo.cs
+C:\repos\c-sharp-instruction\Challenge10-Pig-Dice\Challenge10-Pig-Dice\obj\Debug\netcoreapp3.1\Challenge10-Pig-Dice.csproj.CoreCompileInputs.cache
+C:\repos\c-sharp-instruction\Challenge10-Pig-Dice\Challenge10-Pig-Dice\bin\Debug\netcoreapp3.1\Challenge10-Pig-Dice.exe
+C:\repos\c-sharp-instruction\Challenge10-Pig-Dice\Challenge10-Pig-Dice\bin\Debug\netcoreapp3.1\Challenge10-Pig-Dice.deps.json
+C:\repos\c-sharp-instruction\Challenge10-Pig-Dice\Challenge10-Pig-Dice\bin\Debug\netcoreapp3.1\Challenge10-Pig-Dice.runtimeconfig.json
+C:\repos\c-sharp-instruction\Challenge10-Pig-Dice\Challenge10-Pig-Dice\bin\Debug\netcoreapp3.1\Challenge10-Pig-Dice.runtimeconfig.dev.json
+C:\repos\c-sharp-instruction\Challenge10-Pig-Dice\Challenge10-Pig-Dice\bin\Debug\netcoreapp3.1\Challenge10-Pig-Dice.dll
+C:\repos\c-sharp-instruction\Challenge10-Pig-Dice\Challenge10-Pig-Dice\bin\Debug\netcoreapp3.1\Challenge10-Pig-Dice.pdb
+C:\repos\c-sharp-instruction\Challenge10-Pig-Dice\Challenge10-Pig-Dice\obj\Debug\netcoreapp3.1\Challenge10-Pig-Dice.dll
+C:\repos\c-sharp-instruction\Challenge10-Pig-Dice\Challenge10-Pig-Dice\obj\Debug\netcoreapp3.1\Challenge10-Pig-Dice.pdb
+C:\repos\c-sharp-instruction\Challenge10-Pig-Dice\Challenge10-Pig-Dice\obj\Debug\netcoreapp3.1\Challenge10-Pig-Dice.genruntimeconfig.cache
