@@ -5,20 +5,20 @@ namespace bmdb_console {
         static void Main(string[] args) {
             Console.WriteLine("Welcome to the bmdb Console");
 
-            Console.Write("Enter movie ID: ");
-            int id = Int32.Parse(Console.ReadLine());
+            String choice = "y";
+            while (choice.Equals("y")) {
+                int id = MyConsole.getInt("ID: ");
+                String title = MyConsole.getRequiredString("Title: ");
+                String rating = MyConsole.getRequiredString("Rating: ");
+                int year = MyConsole.getInt("Year: ");
+                String director = MyConsole.getRequiredString("Director: ");
             Console.Write("Enter movie title: ");
-            String title = Console.ReadLine();
-            Console.Write("Enter movie rating: ");
-            String rating = Console.ReadLine();
-            Console.Write("Enter movie year: ");
-            int year = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Enter movie director: ");
-            String director = Console.ReadLine();
             Movie m1 = new Movie(id, title, rating, year, director);
 
+                Console.WriteLine("Continue (y/n)? ");
+                choice = Console.ReadLine();
 
-            Console.WriteLine(m1);
+                Console.WriteLine(m1);
 
 
 

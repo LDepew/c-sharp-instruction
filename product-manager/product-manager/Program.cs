@@ -20,7 +20,10 @@ namespace product_manager {
             //Console.WriteLine($"Product entered: { code}  ,   { desc}  ,   { price} ");
             Console.WriteLine(p1);
 
-
+            Book b1 = new Book("mysql", "Murach's MySQL", 49.50, "Joel Murach");
+            Console.WriteLine(b1);
+            Software s1 = new Software("vs", "Visual Studio", 0.0, "16.3.7");
+            Console.WriteLine(s1);
 
 
 
