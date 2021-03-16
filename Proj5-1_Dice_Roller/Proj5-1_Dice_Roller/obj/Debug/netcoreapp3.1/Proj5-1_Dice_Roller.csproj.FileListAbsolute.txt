@@ -1,0 +1,13 @@
+C:\repos\c-sharp-instruction\Proj5-1_Dice_Roller\Proj5-1_Dice_Roller\bin\Debug\netcoreapp3.1\Proj5-1_Dice_Roller.exe
+C:\repos\c-sharp-instruction\Proj5-1_Dice_Roller\Proj5-1_Dice_Roller\bin\Debug\netcoreapp3.1\Proj5-1_Dice_Roller.deps.json
+C:\repos\c-sharp-instruction\Proj5-1_Dice_Roller\Proj5-1_Dice_Roller\bin\Debug\netcoreapp3.1\Proj5-1_Dice_Roller.runtimeconfig.json
+C:\repos\c-sharp-instruction\Proj5-1_Dice_Roller\Proj5-1_Dice_Roller\bin\Debug\netcoreapp3.1\Proj5-1_Dice_Roller.runtimeconfig.dev.json
+C:\repos\c-sharp-instruction\Proj5-1_Dice_Roller\Proj5-1_Dice_Roller\bin\Debug\netcoreapp3.1\Proj5-1_Dice_Roller.dll
+C:\repos\c-sharp-instruction\Proj5-1_Dice_Roller\Proj5-1_Dice_Roller\bin\Debug\netcoreapp3.1\Proj5-1_Dice_Roller.pdb
+C:\repos\c-sharp-instruction\Proj5-1_Dice_Roller\Proj5-1_Dice_Roller\obj\Debug\netcoreapp3.1\Proj5-1_Dice_Roller.csprojAssemblyReference.cache
+C:\repos\c-sharp-instruction\Proj5-1_Dice_Roller\Proj5-1_Dice_Roller\obj\Debug\netcoreapp3.1\Proj5-1_Dice_Roller.AssemblyInfoInputs.cache
+C:\repos\c-sharp-instruction\Proj5-1_Dice_Roller\Proj5-1_Dice_Roller\obj\Debug\netcoreapp3.1\Proj5-1_Dice_Roller.AssemblyInfo.cs
+C:\repos\c-sharp-instruction\Proj5-1_Dice_Roller\Proj5-1_Dice_Roller\obj\Debug\netcoreapp3.1\Proj5-1_Dice_Roller.csproj.CoreCompileInputs.cache
+C:\repos\c-sharp-instruction\Proj5-1_Dice_Roller\Proj5-1_Dice_Roller\obj\Debug\netcoreapp3.1\Proj5-1_Dice_Roller.dll
+C:\repos\c-sharp-instruction\Proj5-1_Dice_Roller\Proj5-1_Dice_Roller\obj\Debug\netcoreapp3.1\Proj5-1_Dice_Roller.pdb
+C:\repos\c-sharp-instruction\Proj5-1_Dice_Roller\Proj5-1_Dice_Roller\obj\Debug\netcoreapp3.1\Proj5-1_Dice_Roller.genruntimeconfig.cache
