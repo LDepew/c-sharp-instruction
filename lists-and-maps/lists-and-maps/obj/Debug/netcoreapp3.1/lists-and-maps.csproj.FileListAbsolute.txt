@@ -1,0 +1,12 @@
+C:\repos\c-sharp-instruction\lists-and-maps\lists-and-maps\bin\Debug\netcoreapp3.1\lists-and-maps.exe
+C:\repos\c-sharp-instruction\lists-and-maps\lists-and-maps\bin\Debug\netcoreapp3.1\lists-and-maps.deps.json
+C:\repos\c-sharp-instruction\lists-and-maps\lists-and-maps\bin\Debug\netcoreapp3.1\lists-and-maps.runtimeconfig.json
+C:\repos\c-sharp-instruction\lists-and-maps\lists-and-maps\bin\Debug\netcoreapp3.1\lists-and-maps.runtimeconfig.dev.json
+C:\repos\c-sharp-instruction\lists-and-maps\lists-and-maps\bin\Debug\netcoreapp3.1\lists-and-maps.dll
+C:\repos\c-sharp-instruction\lists-and-maps\lists-and-maps\bin\Debug\netcoreapp3.1\lists-and-maps.pdb
+C:\repos\c-sharp-instruction\lists-and-maps\lists-and-maps\obj\Debug\netcoreapp3.1\lists-and-maps.AssemblyInfoInputs.cache
+C:\repos\c-sharp-instruction\lists-and-maps\lists-and-maps\obj\Debug\netcoreapp3.1\lists-and-maps.AssemblyInfo.cs
+C:\repos\c-sharp-instruction\lists-and-maps\lists-and-maps\obj\Debug\netcoreapp3.1\lists-and-maps.csproj.CoreCompileInputs.cache
+C:\repos\c-sharp-instruction\lists-and-maps\lists-and-maps\obj\Debug\netcoreapp3.1\lists-and-maps.dll
+C:\repos\c-sharp-instruction\lists-and-maps\lists-and-maps\obj\Debug\netcoreapp3.1\lists-and-maps.pdb
+C:\repos\c-sharp-instruction\lists-and-maps\lists-and-maps\obj\Debug\netcoreapp3.1\lists-and-maps.genruntimeconfig.cache
