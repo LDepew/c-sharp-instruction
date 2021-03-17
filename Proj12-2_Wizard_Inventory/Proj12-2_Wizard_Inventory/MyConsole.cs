@@ -42,19 +42,26 @@ namespace Proj12_2_Wizard_Inventory {
             return s;
         }
 
-        public static String getChoiceString(String prompt, String s1, String s2) {
+        public static String getChoiceString(String prompt,
+            String[] validEntries) {
             String s = "";
             Boolean isValid = false;
             while (!isValid) {
                 s = getRequiredString(prompt);
-                if (!(s == s1) && !(s == s2)) {
-                    Console.WriteLine("Error! Entry must be '" + s1 + "' or '" + s2 + "'. Try again.");
-                } else {
-                    isValid = true;
+                // loop through all valid entries to see if user entry is valid
+                for (String str: validEntries) {
+                    if (s.equalsIgnoreCasestr)) {
+                        isValid = true;
+                        break;
+                    }
                 }
+                // if user did not match then display an error
+                if (!isValid)
+                    Console.WriteLine("Invalid entry, '" + s + "'. Try again.");
             }
             return s;
         }
+
 
         public static int getInt(String prompt) {
             int i = 0;
@@ -91,6 +98,23 @@ namespace Proj12_2_Wizard_Inventory {
                 }
             }
             return i;
+        }
+
+        public static double getDouble(String prompt) {
+            double d = 0;
+            Boolean isValid = false;
+            while (!isValid) {
+                Console.WriteLine(prompt);
+                if (sc.hasNextDouble()) {
+                    if 
+                    d = sc.nextDouble();
+                    isValid = true;
+                } else {
+                    Console.WriteLine("Error! Invalid number. Try again.");
+                }
+                Console.ReadLine();  // discard any other data entered on the line
+            }
+            return d;
         }
 
 
